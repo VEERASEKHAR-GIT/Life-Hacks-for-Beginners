@@ -1,2 +1,2 @@
-# Cheat-Codes-for-Beginners
-"Unlock the power of Visual Studio Code with essential shortcuts and tips – your 'Cheat Codes for Beginners.' Streamline navigation, coding, and debugging for an efficient development experience. Happy coding in VS Code!"
+# Life Hacks for Beginners
+"Welcome to 'Life Hacks for Beginners,' your trusted resource for practical tips to simplify daily life. Discover 'Everyday Cheat Codes' that make navigating the complexities of the real world a breeze. Join us for a smoother, more enjoyable journey."
