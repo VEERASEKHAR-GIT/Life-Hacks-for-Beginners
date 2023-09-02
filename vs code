@@ -1,0 +1,90 @@
+# Visual Studio Code (VS Code) Keyboard Shortcuts
+
+This README provides a comprehensive list of essential keyboard shortcuts for common tasks in Visual Studio Code (VS Code). These shortcuts can significantly enhance your productivity while coding.
+
+**Please Note:** These shortcuts are based on the default keybindings for Windows. On macOS, you would typically use the Command key (⌘) instead of Control (Ctrl), and on Linux, it's the same as on Windows.
+
+## Basic Navigation
+
+- **Open a File:** Ctrl + O
+- **Save File:** Ctrl + S
+- **Close File:** Ctrl + W
+- **Undo:** Ctrl + Z
+- **Redo:** Ctrl + Shift + Z
+- **Find:** Ctrl + F
+- **Find and Replace:** Ctrl + H
+- **Go to Line:** Ctrl + G
+- **Navigate Back:** Alt + Left Arrow
+- **Navigate Forward:** Alt + Right Arrow
+- **Toggle Sidebar:** Ctrl + B
+- **Toggle Integrated Terminal:** Ctrl + `
+- **Command Palette:** Ctrl + Shift + P
+
+## Editing
+
+- **Copy:** Ctrl + C
+- **Cut:** Ctrl + X
+- **Paste:** Ctrl + V
+- **Select All:** Ctrl + A
+- **Undo Cursor Movement:** Ctrl + U
+- **Move Line Up:** Alt + Up Arrow
+- **Move Line Down:** Alt + Down Arrow
+- **Comment Line(s):** Ctrl + /
+- **Duplicate Line(s):** Shift + Alt + Down Arrow (or Up Arrow)
+- **Indent:** Ctrl + ]
+- **Unindent:** Ctrl + [
+
+## Code Folding
+
+- **Fold (Collapse) All:** Ctrl + (K, 0)
+- **Unfold (Expand) All:** Ctrl + (K, J)
+- **Fold (Collapse) Region:** Ctrl + (K, 1)
+- **Unfold (Expand) Region:** Ctrl + (K, 2)
+
+## Debugging
+
+- **Start Debugging:** F5
+- **Stop Debugging:** Shift + F5
+- **Step Into:** F11
+- **Step Over:** F10
+- **Step Out:** Shift + F11
+- **Toggle Breakpoint:** F9
+- **Run to Cursor:** F4
+- **Show/Hide Debug Sidebar:** Ctrl + Shift + D
+
+## Integrated Terminal
+
+- **Clear Terminal:** Ctrl + L
+- **Copy Selection:** Ctrl + Shift + C
+- **Paste into Terminal:** Ctrl + Shift + V
+
+## File Management
+
+- **New File:** Ctrl + N
+- **New Folder:** Ctrl + Shift + N
+- **Rename File/Folder:** F2
+- **Delete File/Folder:** Delete
+
+## Multi-Cursor and Selection
+
+- **Add Cursor Above:** Ctrl + Alt + Up Arrow
+- **Add Cursor Below:** Ctrl + Alt + Down Arrow
+- **Select All Occurrences of Word:** Ctrl + D
+- **Select Next Occurrence:** Ctrl + Shift + L
+- **Column (Box) Selection:** Alt + Click and Drag
+
+## Contributions Welcome
+
+Contributions to this project are welcome! If you have ideas for improvements or would like to add more keyboard shortcuts to this list, please feel free to:
+
+1. Fork the repository.
+2. Create a new branch for your feature or improvement.
+3. Commit your changes.
+4. Push to your fork.
+5. Submit a pull request.
+
+We appreciate your contributions to make this resource even better.
+
+These shortcuts cover only a fraction of the extensive list available in Visual Studio Code. To explore the complete list and customize your shortcuts, you can open the "Keyboard Shortcuts" panel by pressing Ctrl + K, Ctrl + S (Windows/Linux) or Cmd + K, Cmd + S (macOS).
+
+Happy coding!
